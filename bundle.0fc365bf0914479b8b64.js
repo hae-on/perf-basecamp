@@ -7311,13 +7311,13 @@ function createSearchParams(init) {
 var bind = __webpack_require__(7166);
 var bind_default = /*#__PURE__*/__webpack_require__.n(bind);
 ;// CONCATENATED MODULE: ./src/assets/images/hero.png
-/* harmony default export */ const hero = (__webpack_require__.p + "static/hero.png");
+/* harmony default export */ const hero = (__webpack_require__.p + "static/hero.bf23b9b92a54b3c6dd9f7191735936ba.png");
 ;// CONCATENATED MODULE: ./src/assets/images/trending.gif
-/* harmony default export */ const trending = (__webpack_require__.p + "static/trending.gif");
+/* harmony default export */ const trending = (__webpack_require__.p + "static/trending.8eecadd206fff702bafe0f43fec5f978.gif");
 ;// CONCATENATED MODULE: ./src/assets/images/find.gif
-/* harmony default export */ const find = (__webpack_require__.p + "static/find.gif");
+/* harmony default export */ const find = (__webpack_require__.p + "static/find.af45d223feee97fe10af744cfd0776b9.gif");
 ;// CONCATENATED MODULE: ./src/assets/images/free.gif
-/* harmony default export */ const free = (__webpack_require__.p + "static/free.gif");
+/* harmony default export */ const free = (__webpack_require__.p + "static/free.19796c4e804a7fe71cf7f558177d82e8.gif");
 // EXTERNAL MODULE: ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js
 var injectStylesIntoStyleTag = __webpack_require__(3379);
 var injectStylesIntoStyleTag_default = /*#__PURE__*/__webpack_require__.n(injectStylesIntoStyleTag);
@@ -10807,4 +10807,4 @@ root.render((0,jsx_runtime.jsx)(src_App_0, {}));
 
 /******/ })()
 ;
-//# sourceMappingURL=bundle.js.map
+//# sourceMappingURL=bundle.0fc365bf0914479b8b64.js.map
